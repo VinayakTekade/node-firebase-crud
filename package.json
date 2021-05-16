@@ -1,0 +1,29 @@
+{
+  "name": "node-firebase-crud",
+  "version": "1.0.0",
+  "description": "Example repository for node firebase crud app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VinayakTekade/node-firebase-crud.git"
+  },
+  "author": "Vinayak Tekade",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VinayakTekade/node-firebase-crud/issues"
+  },
+  "homepage": "https://github.com/VinayakTekade/node-firebase-crud#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^9.0.2",
+    "express": "^4.17.1",
+    "firebase": "^8.6.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
