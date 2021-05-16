@@ -14,3 +14,5 @@ class Student{
             this.status = status;
         }
 }
+
+module.exports = Student;
